@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2025-08-09
+  Info:
+    - First release of Recipe Format Updater
+  Major Features:
+    - Capable of detecting and fixing recipes that still use recipe.result and recipe.result_count notation.
+    - Does not operate under instrument mode, so that mod authors still receive useful debugging errors.
